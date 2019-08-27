@@ -1,9 +1,9 @@
 # Pre-amble
 A lot more data available for your entertainment here: https://archive.ics.uci.edu/ml/datasets.php
 
-This doc contains ideas for the data exploration and pre-processing class. The class largely follows [this video](https://www.youtube.com/watch?v=zVImIQuqjQ0&list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba&index=5) and the dataset comes from [here](http://flavorsofcacao.com/chocolate_database.html). 
+This doc contains ideas for the data exploration and pre-processing class. The class largely follows [this video](https://www.youtube.com/watch?v=zVImIQuqjQ0&list=PLzH6n4zXuckpfMu_4Ff8E7Z1behQks5ba&index=5) and the dataset comes from [here](http://flavorsofcacao.com/chocolate_database.html). This has been made pretty and is presented in a more convenient format [here](https://github.com/CompSciALU/BD-pre-proc_tutorial/blob/master/chocolate_data.csv)
 
-Note: the dataset(uploaded on G Drive **TODO: Avail dataset to students**) is a tab delimited csv file. **Why do you think tabs were used instead of commas?**.
+Note: the dataset is a tab delimited csv file. **Why do you think tabs were used instead of commas?**.
 
 # Introduction
 In this exercise we are going to be exploring a dataset and preparing it for some modelling (machine learning, statistical modelling etc.). We shall call this process pre-processing (the modelling is the actual processing). The reason for cleaning data is because data models expect clean data. Clean data is data that is in it's most dense format i.e. having the most amount of information residing in the least amount of data.
